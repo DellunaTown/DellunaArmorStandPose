@@ -1,0 +1,4 @@
+name: DellunaArmorStandPose
+version: ${project.version}
+main: me.lewin.dellunaarmorstandpose.Main
+api-version: 1.18
